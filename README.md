@@ -8,6 +8,8 @@ Project of 'Object-oriented programming'
 
 The pdf containing the relation about the project is only in italian lenguage.
 
+Thanks to Carina Iacob for paints.
+
 
 # italian version below.
 ----------------------------------------------------------------------------------------------------------------------------
@@ -20,5 +22,7 @@ Progetto Di 'Programmazione a oggetti'
 
 il progetto riguarda una calcolatrice di figure geometriche.
 E' presente un pdf con una relazione dettagliata al suo interno e un manuale utente.
+
+Disegni a cura di Carina Iacob.
 
 
