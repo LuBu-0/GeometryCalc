@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Cerchio.png</file>
+        <file>Images/Quadrato.png</file>
+        <file>Images/Rettangolo.png</file>
+        <file>Images/TrapezioIsoscele.png</file>
+        <file>Images/TrapezioRettangolo.png</file>
+        <file>Images/TrapezioScaleno.png</file>
+        <file>Images/TriangoloEquilatero.png</file>
+        <file>Images/TriangoloIsoscele.png</file>
+        <file>Images/TriangoloRettangolo.png</file>
+        <file>Images/TriangoloScaleno.png</file>
+        <file>Images/GeometryCalc.css</file>
+    </qresource>
+</RCC>
