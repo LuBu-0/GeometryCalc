@@ -1,2 +1,17 @@
+qrc_risorse.cpp
+
+#QT
+.qmake.stash
+
+#DIRECTORIES
+moc_dir
+o_dir
+
+#EXTENCTIONS
+*.app
+
+#OTHERS
+Makefile
+
 #macOs
 .DS_Store
